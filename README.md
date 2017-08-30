@@ -32,7 +32,7 @@ We provide you with an Node.js Web API project to extend (it uses a simple in me
 
 We will start you off with the key resource *users*:
 
-![](images/users.png)
+![](images/swagger-users.png)
 
 You can get a visual of your API by visiting http://localhost:3123/swagger whenever you build.
 
@@ -46,6 +46,9 @@ Simply clone this repository and start coding.
 
 ```
 git clone https://github.com/moliver-bb/node-backenddev.git
+cd node-backenddev
+npm install
+npm start
 ```
 
 ## What you will submit
