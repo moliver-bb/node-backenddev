@@ -112,7 +112,10 @@ UserController.get('/user/:id', (req, res, next) => {
       res.status(200);
       res.send(user);
     })
-    .catch(next);
+    .catch(err => {
+      res.status(404);
+      res.send(err.message);
+    });
 });
 
 module.exports = UserController;
