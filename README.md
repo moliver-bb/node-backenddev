@@ -22,7 +22,7 @@ As a *Back-End Developer*, you will be an integral part of the **Studio Team** a
 
 # Homework Problem for Back-End Developer Position
 
-How would you will design the data structures for a very large social network like Facebook or LinkedIn? Describe how you would design an algorithm to show the connection between two people (e.g., Me -> Bob -> Susan -> Jason -> You).
+How would you design the data structures for a very large social network like Facebook or LinkedIn? Describe how you would design an algorithm to show the connection between two people (e.g., Me -> Bob -> Susan -> Jason -> You).
 
 We provide you with an Node.js Web API project to extend (it uses a simple in memory data store). You will be designing the data structures and methods on the back end to materialize the following features:
 
@@ -59,7 +59,7 @@ Please create a zip file and send it over to the recruiter when you are finished
 
 ## What we expect
 
-There is no right or wrong answser. We want to see your ability to solve problems.
+There is no right or wrong answer. We want to see your ability to solve problems.
 That being said, don't leave anything out. We will be going over everything!
 
 Have fun and good luck!
